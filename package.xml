@@ -1,6 +1,6 @@
 <package format="2">
   <name>imagezero_ros</name>
-  <version>0.2.0</version>
+  <version>0.2.1</version>
   <description>
     A library that provides convenient methods for manipulating ROS images with ImageZero
   </description>
@@ -10,6 +10,8 @@
   <author>P. J. Reed</author>
 
   <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>roscpp</build_depend>
 
   <depend>cv_bridge</depend>
   <depend>imagezero</depend>
