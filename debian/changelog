@@ -1,0 +1,28 @@
+ros-kinetic-imagezero (0.2.2-0wily) wily; urgency=high
+
+  * Don't use Intel-specific GCC flags on non-Intel platforms
+  * Contributors: P. J. Reed
+
+ -- P. J. Reed <preed@swri.org>  Wed, 05 Oct 2016 05:00:00 -0000
+
+ros-kinetic-imagezero (0.2.1-0wily) wily; urgency=high
+
+  * No changes
+
+ -- P. J. Reed <preed@swri.org>  Sat, 03 Sep 2016 05:00:00 -0000
+
+ros-kinetic-imagezero (0.2.0-0wily) wily; urgency=high
+
+  * Initial public release
+  * Contributors: P. J. Reed
+
+ -- P. J. Reed <preed@swri.org>  Sun, 28 Aug 2016 05:00:00 -0000
+
+ros-kinetic-imagezero (0.1.0-0wily) wily; urgency=high
+
+  * Initial revision
+  * Contributors: P. J. Reed
+
+ -- P. J. Reed <preed@swri.org>  Thu, 22 Sep 2016 05:00:00 -0000
+
+
