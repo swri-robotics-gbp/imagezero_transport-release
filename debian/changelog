@@ -1,0 +1,28 @@
+ros-kinetic-imagezero-ros (0.2.3-0wily) wily; urgency=high
+
+  * Fix bug that would flip color channels
+  * Contributors: P. J. Reed
+
+ -- P. J. Reed <preed@swri.org>  Fri, 14 Oct 2016 05:00:00 -0000
+
+ros-kinetic-imagezero-ros (0.2.2-0wily) wily; urgency=high
+
+
+
+ -- P. J. Reed <preed@swri.org>  Wed, 05 Oct 2016 05:00:00 -0000
+
+ros-kinetic-imagezero-ros (0.2.1-0wily) wily; urgency=high
+
+  * Add build_depend on roscpp
+  * Contributors: P. J. Reed
+
+ -- P. J. Reed <preed@swri.org>  Sat, 03 Sep 2016 05:00:00 -0000
+
+ros-kinetic-imagezero-ros (0.2.0-0wily) wily; urgency=high
+
+  * Initial version
+  * Contributors: P. J. Reed
+
+ -- P. J. Reed <preed@swri.org>  Wed, 28 Sep 2016 05:00:00 -0000
+
+
