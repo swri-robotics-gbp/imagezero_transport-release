@@ -1,0 +1,28 @@
+ros-indigo-imagezero-ros (0.2.3-0saucy) saucy; urgency=high
+
+  * Fix bug that would flip color channels
+  * Contributors: P. J. Reed
+
+ -- P. J. Reed <preed@swri.org>  Fri, 14 Oct 2016 05:00:00 -0000
+
+ros-indigo-imagezero-ros (0.2.2-0saucy) saucy; urgency=high
+
+
+
+ -- P. J. Reed <preed@swri.org>  Wed, 05 Oct 2016 05:00:00 -0000
+
+ros-indigo-imagezero-ros (0.2.1-0saucy) saucy; urgency=high
+
+  * Add build_depend on roscpp
+  * Contributors: P. J. Reed
+
+ -- P. J. Reed <preed@swri.org>  Sat, 03 Sep 2016 05:00:00 -0000
+
+ros-indigo-imagezero-ros (0.2.0-0saucy) saucy; urgency=high
+
+  * Initial version
+  * Contributors: P. J. Reed
+
+ -- P. J. Reed <preed@swri.org>  Wed, 28 Sep 2016 05:00:00 -0000
+
+
