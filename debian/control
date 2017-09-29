@@ -1,0 +1,12 @@
+Source: ros-lunar-imagezero
+Section: misc
+Priority: extra
+Maintainer: P. J. Reed <preed@swri.org>
+Build-Depends: debhelper (>= 9.0.0), ros-lunar-catkin
+Homepage: https://github.com/swri-robotics/imagezero_transport
+Standards-Version: 3.9.2
+
+Package: ros-lunar-imagezero
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: ImageZero is a fast lossless image compression algorithm for RGB color photos.
