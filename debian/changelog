@@ -1,0 +1,41 @@
+ros-indigo-imagezero (0.2.4-0trusty) trusty; urgency=high
+
+  * Add documentation; build on Lunar (#12 <https://github.com/pjreed/imagezero_transport/issues/12>)
+  * Contributors: P. J. Reed
+
+ -- P. J. Reed <preed@swri.org>  Fri, 29 Sep 2017 05:00:00 -0000
+
+ros-indigo-imagezero (0.2.3-0trusty) trusty; urgency=high
+
+
+
+ -- P. J. Reed <preed@swri.org>  Fri, 14 Oct 2016 05:00:00 -0000
+
+ros-indigo-imagezero (0.2.2-0trusty) trusty; urgency=high
+
+  * Don't use Intel-specific GCC flags on non-Intel platforms
+  * Contributors: P. J. Reed
+
+ -- P. J. Reed <preed@swri.org>  Wed, 05 Oct 2016 05:00:00 -0000
+
+ros-indigo-imagezero (0.2.1-0trusty) trusty; urgency=high
+
+  * No changes
+
+ -- P. J. Reed <preed@swri.org>  Sat, 03 Sep 2016 05:00:00 -0000
+
+ros-indigo-imagezero (0.2.0-0trusty) trusty; urgency=high
+
+  * Initial public release
+  * Contributors: P. J. Reed
+
+ -- P. J. Reed <preed@swri.org>  Sun, 28 Aug 2016 05:00:00 -0000
+
+ros-indigo-imagezero (0.1.0-0trusty) trusty; urgency=high
+
+  * Initial revision
+  * Contributors: P. J. Reed
+
+ -- P. J. Reed <preed@swri.org>  Thu, 22 Sep 2016 05:00:00 -0000
+
+
