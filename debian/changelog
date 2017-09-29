@@ -1,0 +1,35 @@
+ros-kinetic-imagezero-ros (0.2.4-0jessie) jessie; urgency=high
+
+  * Add documentation; build on Lunar (#12 <https://github.com/pjreed/imagezero_transport/issues/12>)
+  * Contributors: P. J. Reed
+
+ -- P. J. Reed <preed@swri.org>  Fri, 29 Sep 2017 05:00:00 -0000
+
+ros-kinetic-imagezero-ros (0.2.3-0jessie) jessie; urgency=high
+
+  * Fix bug that would flip color channels
+  * Contributors: P. J. Reed
+
+ -- P. J. Reed <preed@swri.org>  Fri, 14 Oct 2016 05:00:00 -0000
+
+ros-kinetic-imagezero-ros (0.2.2-0jessie) jessie; urgency=high
+
+
+
+ -- P. J. Reed <preed@swri.org>  Wed, 05 Oct 2016 05:00:00 -0000
+
+ros-kinetic-imagezero-ros (0.2.1-0jessie) jessie; urgency=high
+
+  * Add build_depend on roscpp
+  * Contributors: P. J. Reed
+
+ -- P. J. Reed <preed@swri.org>  Sat, 03 Sep 2016 05:00:00 -0000
+
+ros-kinetic-imagezero-ros (0.2.0-0jessie) jessie; urgency=high
+
+  * Initial version
+  * Contributors: P. J. Reed
+
+ -- P. J. Reed <preed@swri.org>  Wed, 28 Sep 2016 05:00:00 -0000
+
+
