@@ -1,3 +1,29 @@
+## imagezero_transport (lunar) - 0.2.4-0
+
+The packages in the `imagezero_transport` repository were released into the `lunar` distro by running `/usr/bin/bloom-release -r lunar -t lunar imagezero_transport` on `Fri, 29 Sep 2017 21:05:29 -0000`
+
+These packages were released:
+- `imagezero`
+- `imagezero_image_transport`
+- `imagezero_ros`
+
+Version of package(s) in repository `imagezero_transport`:
+
+- upstream repository: https://github.com/swri-robotics/imagezero_transport.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.4-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.26`
+- catkin_pkg version: `0.3.6`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## imagezero_transport (kinetic) - 0.2.4-0
 
 The packages in the `imagezero_transport` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -r kinetic -t kinetic imagezero_transport` on `Fri, 29 Sep 2017 21:01:48 -0000`
