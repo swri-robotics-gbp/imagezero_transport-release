@@ -1,0 +1,12 @@
+Source: ros-lunar-imagezero-image-transport
+Section: misc
+Priority: extra
+Maintainer: P. J. Reed <preed@swri.org>
+Build-Depends: debhelper (>= 9.0.0), ros-lunar-catkin, ros-lunar-cv-bridge, ros-lunar-image-transport, ros-lunar-imagezero-ros, ros-lunar-message-runtime, ros-lunar-sensor-msgs
+Homepage: http://www.ros.org/wiki/image_transport_plugins
+Standards-Version: 3.9.2
+
+Package: ros-lunar-imagezero-image-transport
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lunar-cv-bridge, ros-lunar-image-transport, ros-lunar-imagezero-ros, ros-lunar-message-runtime, ros-lunar-sensor-msgs
+Description: A plugin to image_transport for transparently sending images encoded with ImageZero.
