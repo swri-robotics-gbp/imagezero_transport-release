@@ -1,0 +1,12 @@
+Source: ros-melodic-imagezero-ros
+Section: misc
+Priority: extra
+Maintainer: P. J. Reed <preed@swri.org>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin, ros-melodic-cv-bridge, ros-melodic-imagezero, ros-melodic-message-runtime, ros-melodic-roscpp, ros-melodic-sensor-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-imagezero-ros
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-cv-bridge, ros-melodic-imagezero, ros-melodic-message-runtime, ros-melodic-sensor-msgs
+Description: A library that provides convenient methods for manipulating ROS images with ImageZero
