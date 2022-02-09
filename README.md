@@ -1,3 +1,29 @@
+## imagezero_transport (noetic) - 0.2.5-1
+
+The packages in the `imagezero_transport` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --edit --rosdistro noetic --track noetic imagezero_transport` on `Wed, 09 Feb 2022 03:08:44 -0000`
+
+These packages were released:
+- `imagezero`
+- `imagezero_image_transport`
+- `imagezero_ros`
+
+Version of package(s) in repository `imagezero_transport`:
+
+- upstream repository: https://github.com/swri-robotics/imagezero_transport.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.5-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.24`
+- rosdep version: `0.20.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## imagezero_transport (melodic) - 0.2.4-0
 
 The packages in the `imagezero_transport` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic imagezero_transport` on `Fri, 11 May 2018 20:59:24 -0000`
