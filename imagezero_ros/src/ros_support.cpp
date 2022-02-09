@@ -70,7 +70,7 @@ namespace IZ
     // Bit depth of image encoding
     int bitDepth = enc::bitDepth(image.encoding);
 
-    params.push_back(CV_IMWRITE_PXM_BINARY);
+    params.push_back(cv::IMWRITE_PXM_BINARY);
     params.push_back(1);
 
     // Update ros message format header
@@ -190,7 +190,7 @@ namespace IZ
     // Decode color/mono image
     try
     {
-      cv_ptr->image = cv::imdecode(cv::Mat(ppm_data), CV_LOAD_IMAGE_COLOR);
+      cv_ptr->image = cv::imdecode(cv::Mat(ppm_data), cv::IMREAD_COLOR);
 
       // Assign image encoding string
       const size_t split_pos = compressed->format.find(';');
